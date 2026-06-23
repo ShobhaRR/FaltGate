@@ -1,2 +1,2 @@
-# FaltGate
+# falt-gate
 FaltGate
